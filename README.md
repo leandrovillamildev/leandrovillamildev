@@ -1,5 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=Leandro%20Villamil&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Web%20development%20|%20Data%20science&descAlignY=55&reversal=true&descSize=20" width="100%" />
 
+  <h1>Hi there! I'm Leandro Villamil 👋</h1>
 <!--
 **leandrovillamildev/leandrovillamildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
