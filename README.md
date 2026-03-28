@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=Leandro%20Villamil&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Data%20science%20|%20Web%20development&descAlignY=55&reversal=true&descSize=20" width="100%" />
 
-  <h1>Hi there! I'm Leandro Villamil 👋</h1>
+  <h1>¡Hi there!, i am Leandro Villamil 👋</h1>
 
 <br/>
 
